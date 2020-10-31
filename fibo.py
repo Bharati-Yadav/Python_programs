@@ -12,8 +12,6 @@ def Fibonacci(n):
 	else:
 		return Fibonacci(n-1)+Fibonacci(n-2)
 
-# Driver Program
 
 print(Fibonacci(9))
 
-#This code is contributed by Saket Modi
